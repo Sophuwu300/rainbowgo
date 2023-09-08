@@ -41,3 +41,5 @@ func main() {
     }
 }
 ```
+## Result:
+![image](https://github.com/Sophuwu300/rainbowgo/assets/78772568/c0a9fe5f-279a-46d2-945b-dc798026843e)
